@@ -1,3 +1,6 @@
+[![Watch the video]](https://www.youtube.com/watch?v=Kya-3oiuBC8)
+
+
 # NOTE: I made the object detection model its weights to detect Man/Women on security cameras
 
 I used a small dataset so the AI isnt as good. the soul test of this model was so that i could share some of my experience
