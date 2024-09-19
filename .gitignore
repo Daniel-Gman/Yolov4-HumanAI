@@ -1,0 +1,11 @@
+/obj/*
+/shuffled_images/*
+/images/*
+
+/.ipynb_checkpoints/
+
+/yolov4-tiny/obj.zip
+
+/bkp/
+
+*.weights
