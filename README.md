@@ -1,4 +1,4 @@
-[![Click here to see my step-to-step progress]](https://www.youtube.com/watch?v=Kya-3oiuBC8)
+[Click here to see my step-to-step progress](https://www.youtube.com/watch?v=Kya-3oiuBC8)
 
 
 # NOTE: I made the object detection model its weights to detect Man/Women on security cameras
